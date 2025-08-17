@@ -80,7 +80,11 @@ High employee attrition can lead to loss of skilled staff, increased recruitment
 
 ## Tools Utilized 🛠️
 1. Power BI for data visualization and aggregation.
-2. Excel and SQL used for data cleaning 
+2. Excel and SQL used for data cleaning
+
+   ## About the Author
+Connect with me on LinkedIn (https://www.linkedin.com/in/anuj-patni-0b4b6415a/)
+
 
 
 
